@@ -1,3 +1,5 @@
+import Hotjar from "@hotjar/browser";
+
 const siteId = 3768294;
 const hotjarVersion = 6;
 
